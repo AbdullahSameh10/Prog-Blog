@@ -24,10 +24,22 @@
 
 ### ✨ Key Features
 
-- ⚡ **Blazing Fast Performance** - Powered by Vite for instant HMR and optimal build speeds
-- 🎨 **Modern Tech Stack** - React 19 with TypeScript for type-safe, maintainable code
-- 💅 **Beautiful Styling** - Tailwind CSS for utility-first, responsive design
-- 🔧 **Developer Experience** - ESLint configured for code quality and consistency
+- #### 🚀 Performance & Tech
+   - ⚡ **Blazing Fast Performance** — Powered by Vite for instant HMR and optimal builds
+   - 🎨 **Modern Stack** — React 19 + TypeScript for type-safe, maintainable code
+   - 💅 **Beautiful UI** — Tailwind CSS with utility-first, responsive styling
+
+- #### 🔍 Search & Discovery
+   - 🔎 **Real-Time Search Engine** — Live filtering as you type with debounced performance
+   - ⚡ **Instant Results** — No page reloads needed for search queries
+
+- #### 📝 Content & Navigation
+   - 📄 **Smart Pagination** — Server-side pagination for efficient content browsing
+   - 🔢 **Page Number Controls** — Interactive pagination with visual feedback
+   - 🎯 **Styled Blog Cards** — Fully designed cards with hover animations and consistent typography
+
+- #### 🛠️ Developer Experience
+   - 🔧 **ESLint + TypeScript** — Strict linting rules for production-grade code quality
 
 ### 🛠️ Built With
 
