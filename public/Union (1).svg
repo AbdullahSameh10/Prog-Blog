@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<defs>
+		<image  width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAAAXNSR0IB2cksfwAAAX1QTFRFAAAAub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/mub/m0IRbgAAAAH90Uk5TAAZPnsrn7eHRpWwcCgnW+P/gfTMykf3kmDtq0sl6EAIBY+rxhxJZ7KcOLdn6lh+t/vN4DwN0U0WbC7bMIFHpmn/PxTDyGGH5TJNkgcS3+2afTmjVHfeUDdTwWPzQFPZ5OLtSXeWgEzwmssgIqLQZw8sjRI7YwHAXL4PG37NNK98GSKAAAAGTSURBVHichdTNKwRxGAfw5+swDshhSZbYVatwUKxEed3arPUWLg5CLko5SPkvuOKgOAiJg7BSIlubjZTyUi5DtGwosl7LmtlZO8Ps7zfPZX4zfXpe6jcPSBPQxIvms3pMCSUj+hpOAB70Jg3PqZ+anIlA4J8x40srpBAEqeKlaizAI+nCBFyoJh93eiK1lYmzX1OIm3iEKBs4jppiiPENWYFD2djxds0g0ni5d5eSKRc/mITCBfthUAVO2YSoCF5QldwWO6y3AVDNE6vhSAiFO8jNO+IRohI/HDjgm1AtnEFuKWlswOXjE7KYUcmdXDZZaPIaGKEMzXsGphpo2zEwr260bxsYB2Cq3+IbJ1Bq83CJC3Mgc90azzR5RVD3dohDWrArGeoN7HPSeO4j97lvhUnsOdPKne/HEoMIrZhSjK32ilHtvWdTjP47A/CJ8bJ0TnzLz4gZPC+YTNIRU6PfshAzREOrLcGNP8KdPtszrhzV/TMMrNpPlJpCQwYWY+U1O2oUyx3r7pne87WR+S6MqYvsB9FwZOiI29W1AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #141624 } 
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+	<path class="s0" d="m18 36c9.94 0 18-8.06 18-18 0-9.94-8.06-18-18-18-9.94 0-18 8.06-18 18 0 4.15 1.41 7.98 3.77 11.02l3.97-14.99c1.65-6.51 5.94-9.87 12.82-9.87h2.38c4.84 0 8.39 4.54 7.23 9.24q-0.32 1.28-1.14 2.31l-2.03 2.51c-0.51 0.64-0.7 1.49-0.51 2.29l0.62 2.52c0.32 1.31 0.26 2.68-0.17 3.95-1.46 4.33-5.52 7.25-10.09 7.25h-6.64c2.36 1.13 5 1.77 7.79 1.77z"/>
+	<path fill-rule="evenodd" class="s0" d="m20.27 25.09l-0.12 0.45c-0.51 1.94-2.27 3.3-4.28 3.3h-5.43l1.37-5.24c0.29-1.09 1.26-1.84 2.38-1.84h3.51c1.74 0 3.01 1.64 2.57 3.33zm-3.61-1.74h-1.9c-0.64 0-1.2 0.43-1.36 1.05l-0.75 2.84h3c1.11 0 2.09-0.74 2.37-1.81l0.06-0.25c0.25-0.92-0.45-1.83-1.42-1.83z"/>
+	<path fill-rule="evenodd" class="s0" d="m15 11.74c0.28-1.08 1.26-1.83 2.38-1.83h3.5c1.74 0 3.01 1.64 2.57 3.32l-0.12 0.45c-0.51 1.95-2.26 3.3-4.27 3.3h-5.44zm0.84 3.65h3c1.11 0 2.09-0.74 2.37-1.81l0.06-0.25c0.25-0.93-0.45-1.83-1.42-1.83h-1.9c-0.64 0-1.2 0.43-1.36 1.05z"/>
+</svg>
