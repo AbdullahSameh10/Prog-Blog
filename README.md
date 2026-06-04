@@ -170,4 +170,4 @@ Live Demo: [https://prog-blog.vercel.app](https://prog-blog.vercel.app)
 
 ---
 
-<div align="center"> <sub>Built with ❤️ by Abdullah Sameh</sub> </div>
+<div align="center"> <sup>Built with ❤️ by Abdullah Sameh</sup> </div>
