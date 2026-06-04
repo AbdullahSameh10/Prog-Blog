@@ -168,4 +168,6 @@ Project Link: [https://github.com/AbdullahSameh10/Prog-Blog](https://github.com/
 
 Live Demo: [https://prog-blog.vercel.app](https://prog-blog.vercel.app)
 
+---
+
 <div align="center"> <sub>Built with ❤️ by Abdullah Sameh</sub> </div>
